@@ -48,3 +48,7 @@ More detailed configurations can be found in `tmn_run.py`.
         year      = {2018},
 }
 ```
+
+## Disclaimer
+
+The code is for research purpose only and released under the Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
